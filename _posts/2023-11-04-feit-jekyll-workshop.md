@@ -2,7 +2,6 @@
 layout: post
 title: "Empowering Tech Skills: What We Learned at the FEIT Jekyll Workshop"
 subtitle: "Your New Journey with Jekyll and Web Development"
-date: 2023-11-04 :00:00
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
