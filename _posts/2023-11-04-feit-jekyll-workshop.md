@@ -25,7 +25,7 @@ Thank you for attending the FEIT workshop on **Building Your Blog with Jekyll**!
 - **Git Basics:** You learned how to use Git for version control, ensuring you can manage and track changes to your site’s source code.
 
 ## Deployment
-- **GitHub Pages:** We walked you through deploying your blog on GitHub Pages, making your site live and accessible to the world.
+- **GitHub Pages:** We walked you through deploying your blog on GitHub Pages, making your site live and accessible to the world!
 
 ## Next Steps in Your Web Development Journey
 - **Experiment:** Continue to experiment with different layouts, designs, and functionalities for your blog.
